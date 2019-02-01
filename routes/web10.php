@@ -13,7 +13,6 @@
 
 
 
-Route::get('XXX', 'Admin\AAAController@bbb');
 
 
 Route::get('admin/profile/edit', 'Admin\profileController@edit');
